@@ -27,8 +27,8 @@ export default function App() {
   return (
     <div className="container">
       <div className="calculator">
-        <h1 className="header">10 Things That Require Zero Talent</h1>
-        <Display value="GOOD LUCK" />
+        <h1 className="header">FULL NAME - SECTION</h1>
+        <Display value="10 Things That Require Zero Talent" />
         <div className="buttons">
           <Button label="7" />
           <Button label="8" />
