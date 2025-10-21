@@ -27,7 +27,7 @@ export default function App() {
   return (
     <div className="container">
       <div className="calculator">
-        <h1 className="header">FULL NAME - SECTION</h1>
+        <h1 className="header">JUAN DELA CRUZ - IT3C</h1>
         <Display value="10 Things That Require Zero Talent" />
         <div className="buttons">
           <Button label="7" />
@@ -44,7 +44,7 @@ export default function App() {
 
           <Button label="NAME" />
           <Button label="0" />
-          <Button label="SEC" />
+          <Button label="SUBJ" />
         </div>
       </div>
     </div>
